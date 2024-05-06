@@ -827,10 +827,6 @@ img {
     width: 36px;
 }
 
-.subscribe-input:focus {
-    color: var(--logo-web);
-}
-
 .subscribe-button {
     display: inline-flex;
     align-items: center;
